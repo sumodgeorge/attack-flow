@@ -9,7 +9,7 @@
   },
   "author": "mcarenzo",
   "dependencies": {
-    "vue": "^3.0.0",
+    "vue": "^3.3.5",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
